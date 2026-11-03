@@ -31,5 +31,5 @@ services:
 
 databases:
   - name: kener-db
-    plan: basic-256mb
+    plan: free-256mb
     databaseName: kener
